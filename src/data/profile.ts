@@ -7,6 +7,6 @@ export const profile = {
   email: "acousticmechanicpro@gmail.com",
   github: "https://github.com/rankbotaiapp-byte",
   githubHandle: "rankbotaiapp-byte",
-  linkedin: "https://www.linkedin.com/in/eric-mullen-976b2b436",
+  linkedin: "https://www.linkedin.com/in/YOUR-ACTUAL-LINKEDIN-SLUG",
   resumeHref: "/resume.md",
 };
