@@ -3,7 +3,7 @@ Medford, Oregon · Remote
 Frontend / product builder
 
 Email: acousticmechanicpro@gmail.com  
-LinkedIn: https://www.linkedin.com/in/eric-mullen-8428343b6  
+LinkedIn: https://www.linkedin.com/in/eric-mullen-976b2b436  
 GitHub: https://github.com/rankbotaiapp-byte
 
 ## What I ship
